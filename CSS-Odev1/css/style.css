@@ -1,0 +1,22 @@
+
+.p {
+
+    color: yellowgreen;
+}
+
+.h2 {
+
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.myDivElement {
+
+    text-align:center;
+}
+
+.myDivElement ul li {
+
+    display: inline;
+}
